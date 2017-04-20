@@ -21,4 +21,4 @@ Then, if there's time, we'll cover the PCB software(s), and how to build a paper
 
 Participants will take home a completed prototyping development board, and a variety of components to build their first interactive synth.  You will also get links to further reading material if you choose to continue learning about building synths.    
 
-The Women's Electronics Workshop is committed to providing a safe space for electronics enthusiasts who identify as female or genderqueer. This event is open to everyone. 
+The Pumping Station: One workshop was hosted by the Women's Electronics Workshop series, which is committed to providing a safe space for electronics enthusiasts who identify as female or genderqueer. This event is open to everyone. 
